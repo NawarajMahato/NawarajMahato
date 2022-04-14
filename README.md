@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on developing project
 - 📫 How to reach me 
 - https://www.linkedin.com/in/nawarajmahato
+- Nawarajmahato9@gmail.com
 
 <!---
 NawarajMahato/NawarajMahato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
